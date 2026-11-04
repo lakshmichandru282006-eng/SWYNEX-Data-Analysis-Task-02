@@ -45,4 +45,8 @@ Key attributes include:
 - **Python** – Data analysis and processing.
 - **Google Colab** – Development environment.
 - **Pandas** – Data manipulation and analysis.
-- **NumPy** –
+- **NumPy** – Numerical operations.
+- **Matplotlib** – Data visualization.
+- **Seaborn** – Statistical visualization.
+
+
